@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "網站過濾器",
+    "description": "Extension Name"
+  },
+  "extDescription": {
+    "message": "在Google搜尋結果中，隱藏或是標記特定網站",
+    "description": "Extension description"
+  }
+}

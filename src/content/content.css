@@ -1,0 +1,7 @@
+.blocked-hide {
+    display: none;
+}
+
+.blocked-translucent {
+    opacity: 0.25;
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Site Filter",
+    "description": "Extension Name"
+  },
+  "extDescription": {
+    "message": "Hide/Mark website from Google search result",
+    "description": "Extension description"
+  }
+}
